@@ -1,2 +1,3 @@
 # pi-rc
-pi-guard init system
+
+Init System for PiGuard
